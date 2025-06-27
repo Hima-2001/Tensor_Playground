@@ -43,7 +43,7 @@ An interactive web application built using **Streamlit** to experiment with cust
 
 ## 1. Clone this repository:
 ```
-git clone https://github.com/your-username/tf-playground-app.git
+git clone https://github.com/Hima-2001/Tensor_Playground
 cd tf-playground-app
 ```
 ## 2. Install dependencies:
@@ -51,12 +51,22 @@ cd tf-playground-app
 
 ## 3. Run the app:
       streamlit run app.py
+
 ---
   ##  📊 Example Output
 - Decision boundary updated live after training
 
 - Accuracy metrics and training/validation loss graph
----
+
+
+## 📌 Hosted using Streamlit on Hugging Face Spaces for easy public access and demonstration.
+
+🌐 Live Demo on Hugging Face Spaces
+  Experience the app directly in your browser – no installation needed!
+  Interactively build and train neural networks on synthetic datasets and visualize decision boundaries in real time.
+```
+🔗  Hugging Face link https://huggingface.co/spaces/Darsini03/Tensorflow_playground_ANN
+```
 
 ## 🧠 Learning Outcomes
 - Understand the influence of model architecture and hyperparameters
